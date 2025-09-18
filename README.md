@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Mayela López 
 
-<!--
-**MayelaLopez28/MayelaLopez28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Passionate about software development, data science, and building innovative applications.  
+Currently studying **Computer Science (6th semester)** while gaining hands-on experience in real-world projects.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 I’m currently working on
+  - Developing a **web application** as a Software Developer Intern at *Quality Controller*.  
+  - Built and optimized the database (backend).  
+  - Currently working on the frontend for better user experience.  
+
+---
+
+## 🌱 I’m currently learning
+- Advanced **Machine Learning** techniques.  
+- Improving skills in **Full-Stack Development** (React, Express.js, MongoDB).  
+
+---
+
+## 👯 I’m looking to collaborate on
+- Open-source projects in **Data Science** and **Web Development**.  
+- Game development projects (Java, Python, JavaScript).  
+
+---
+
+## 💬 Ask me about
+- Python (Pandas, Pygame)  
+- Java / JavaScript (React, Express.js, Electron)  
+- Databases (MySQL, MongoDB)  
+- Game and app development  
+
+---
+
+## 📫 How to reach me
+- Email: []  
+- LinkedIn: []  
+
+---
+
+## ⚡ Fun fact
+I’ve built projects such as a **Chess game in Java**, a **Space Invaders clone in Python**, and a **Weather App in JavaScript** — because I love mixing creativity with problem-solving. 
