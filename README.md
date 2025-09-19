@@ -28,8 +28,9 @@ Currently studying **Computer Science (6th semester)** while gaining hands-on ex
 - Python (Pandas, Pygame)  
 - Java / JavaScript (React, Express.js, Electron)  
 - Databases (MySQL, MongoDB)  
-- Game and app development  
+- Game and app development
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MayelaLopez28&show_icons=true&theme=midnight-purple)
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
