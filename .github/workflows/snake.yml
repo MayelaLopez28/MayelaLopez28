@@ -23,6 +23,11 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add dist/github-snake.svg
-          git commit -m "Update GitHub Snake" || echo "No changes to commit"
-          git push
+          if [ -f dist/github-snake.svg ]; then
+            git add dist/github-snake.svg
+            git commit -m "Update GitHub Snake" || echo "No changes to commit"
+            git push
+          else
+            echo "File does not exist, skipping commit"
+          fi
+
