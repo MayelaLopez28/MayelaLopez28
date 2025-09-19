@@ -52,5 +52,6 @@ Currently studying **Computer Science (6th semester)** while gaining hands-on ex
   
 </div>
 
-![Snake animation](https://github.com/MayelaLopez28/MayelaLopez28/blob/output/snake.svg)
+![GitHub Snake](https://github.com/MayelaLopez28/MayelaLopez28/raw/main/dist/github-snake.svg)
+
 
