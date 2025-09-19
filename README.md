@@ -31,9 +31,10 @@ Currently studying **Computer Science (6th semester)** while gaining hands-on ex
 - Game and app development
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MayelaLopez28&show_icons=true&theme=midnight-purple" alt="Mayela's GitHub stats" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayelaLopez28&layout=donut&theme=midnight-purple" alt="Top Langs" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MayelaLopez28&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" alt="Mayela's GitHub stats" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayelaLopez28&layout=donut&theme=midnight-purple&include_all_commits=true&count_private=true" alt="Top Langs" height="200"/>
 </p>
+
 
 
 <div style="display: inline_block"><br>
