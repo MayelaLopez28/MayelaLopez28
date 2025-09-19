@@ -30,17 +30,6 @@ Currently studying **Computer Science (6th semester)** while gaining hands-on ex
 - Databases (MySQL, MongoDB)  
 - Game and app development  
 
----
-
-## 📫 How to reach me
-- Email: []  
-- LinkedIn: []  
-
----
-
-## ⚡ Fun fact
-I’ve built projects such as a **Chess game in Java**, a **Space Invaders clone in Python**, and a **Weather App in JavaScript** — because I love mixing creativity with problem-solving. 
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
