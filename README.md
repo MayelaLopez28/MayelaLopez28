@@ -4,7 +4,7 @@
 
 ✨ Passionate about software development, data science, and building innovative applications.  
 
-Currently studying **Computer Science (6th semester)** while gaining hands-on experience in real-world projects.  
+Currently studying **Computer Science (7th semester)** while gaining hands-on experience in real-world projects.  
 
 
 
